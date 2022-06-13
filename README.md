@@ -7,7 +7,7 @@ Follow this step to serve this app.
 - Run `cp .env.example .env`
 - Open `.env` file and set the URL of the API. This should be `http://localhost:82/api` if it wasn't changed.
 - Run `npm run dev` to serve the app.
-- Visit `http://localhost:3000` to view the app.
+- Visit [http://localhost:3000](http://localhost:3000) to view the app.
 
 ## NOTE
 The API that this client consumes is in a seperate repo, you can access it here: [https://github.com/veekthoven/mailerlite-test](https://github.com/veekthoven/mailerlite-test)
